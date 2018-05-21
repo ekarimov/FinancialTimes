@@ -73,7 +73,7 @@ def get_average_rates(base_currency_code):
         end_date = exchange_rates.with_entities(func.max(Datapoint.date).label('max_date')).first()
         end_date = end_date.max_date
     else:
-        end_date = exchange_rates.filter(Datapoint.date >= end_date)
+        exchange_rates = exchange_rates.filter(Datapoint.date >= end_date)
 
     exchange_rates = exchange_rates.\
         group_by(Datapoint.currency_code).\
@@ -85,8 +85,8 @@ def get_average_rates(base_currency_code):
             'base_currency_code':base_currency_code,
             'currency_code':exchange_rate.currency_code,
             'average_rate':exchange_rate.average,
-            'start_date':datetime.strftime(start_date, "%Y-%m-%d"),
-            'end_date':datetime.strftime(end_date, "%Y-%m-%d")
+            'start_date':start_date,
+            'end_date':end_date
         })
 
     return jsonify(result)
