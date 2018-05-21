@@ -1,3 +1,4 @@
+from datetime import datetime
 from app import db
 
 
@@ -29,3 +30,12 @@ class Datapoint(db.Model):
             existing_datapoint.rate = self.rate
         else:
             db.session.add(self)
+
+    @property
+    def serialized(self):  # Add serialize method for jsonify
+        return {
+            'base_currency_code': self.base_currency_code,
+            'date': datetime.strftime(self.date, "%Y-%m-%d"),
+            'rate': self.rate,
+            'currency_code': self.currency_code
+        }
