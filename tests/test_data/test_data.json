@@ -1,0 +1,2018 @@
+[
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AED",
+    "date": "2018-05-14",
+    "rate": 4.38352
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AFN",
+    "date": "2018-05-14",
+    "rate": 84.757972
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ALL",
+    "date": "2018-05-14",
+    "rate": 126.402888
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AMD",
+    "date": "2018-05-14",
+    "rate": 578.660223
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ANG",
+    "date": "2018-05-14",
+    "rate": 2.136564
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AOA",
+    "date": "2018-05-14",
+    "rate": 273.87053
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ARS",
+    "date": "2018-05-14",
+    "rate": 29.778021
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AUD",
+    "date": "2018-05-14",
+    "rate": 1.585585
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AWG",
+    "date": "2018-05-14",
+    "rate": 2.124619
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AZN",
+    "date": "2018-05-14",
+    "rate": 2.028531
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BAM",
+    "date": "2018-05-14",
+    "rate": 1.959549
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BBD",
+    "date": "2018-05-14",
+    "rate": 2.387212
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BDT",
+    "date": "2018-05-14",
+    "rate": 99.093175
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BGN",
+    "date": "2018-05-14",
+    "rate": 1.947369
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BHD",
+    "date": "2018-05-14",
+    "rate": 0.449867
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BIF",
+    "date": "2018-05-14",
+    "rate": 2089.980385
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BMD",
+    "date": "2018-05-14",
+    "rate": 1.193606
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BND",
+    "date": "2018-05-14",
+    "rate": 1.578191
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BOB",
+    "date": "2018-05-14",
+    "rate": 8.187459
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BRL",
+    "date": "2018-05-14",
+    "rate": 4.321806
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BSD",
+    "date": "2018-05-14",
+    "rate": 1.193606
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BTC",
+    "date": "2018-05-14",
+    "rate": 0.000138
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BTN",
+    "date": "2018-05-14",
+    "rate": 80.270397
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BWP",
+    "date": "2018-05-14",
+    "rate": 11.684566
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BYN",
+    "date": "2018-05-14",
+    "rate": 2.375452
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BYR",
+    "date": "2018-05-14",
+    "rate": 23394.679559
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BZD",
+    "date": "2018-05-14",
+    "rate": 2.384586
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CAD",
+    "date": "2018-05-14",
+    "rate": 1.527863
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CDF",
+    "date": "2018-05-14",
+    "rate": 1868.589107
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CHF",
+    "date": "2018-05-14",
+    "rate": 1.193342
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CLF",
+    "date": "2018-05-14",
+    "rate": 0.027309
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CLP",
+    "date": "2018-05-14",
+    "rate": 746.039655
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CNY",
+    "date": "2018-05-14",
+    "rate": 7.562572
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "COP",
+    "date": "2018-05-14",
+    "rate": 3382.91835
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CRC",
+    "date": "2018-05-14",
+    "rate": 670.50835
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CUC",
+    "date": "2018-05-14",
+    "rate": 1.193606
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CUP",
+    "date": "2018-05-14",
+    "rate": 31.630562
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CVE",
+    "date": "2018-05-14",
+    "rate": 110.301144
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CZK",
+    "date": "2018-05-14",
+    "rate": 25.477521
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DJF",
+    "date": "2018-05-14",
+    "rate": 211.268275
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DKK",
+    "date": "2018-05-14",
+    "rate": 7.451289
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DOP",
+    "date": "2018-05-14",
+    "rate": 58.952204
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DZD",
+    "date": "2018-05-14",
+    "rate": 137.627559
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "EGP",
+    "date": "2018-05-14",
+    "rate": 21.222318
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ERN",
+    "date": "2018-05-14",
+    "rate": 18.249878
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ETB",
+    "date": "2018-05-14",
+    "rate": 32.489957
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "EUR",
+    "date": "2018-05-14",
+    "rate": 1.0
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "FJD",
+    "date": "2018-05-14",
+    "rate": 2.457042
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "FKP",
+    "date": "2018-05-14",
+    "rate": 0.879571
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GBP",
+    "date": "2018-05-14",
+    "rate": 0.88001
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GEL",
+    "date": "2018-05-14",
+    "rate": 2.90452
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GGP",
+    "date": "2018-05-14",
+    "rate": 0.88006
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GHS",
+    "date": "2018-05-14",
+    "rate": 5.408206
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GIP",
+    "date": "2018-05-14",
+    "rate": 0.879924
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GMD",
+    "date": "2018-05-14",
+    "rate": 55.920443
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GNF",
+    "date": "2018-05-14",
+    "rate": 10735.292935
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GTQ",
+    "date": "2018-05-14",
+    "rate": 8.756261
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GYD",
+    "date": "2018-05-14",
+    "rate": 246.46773
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HKD",
+    "date": "2018-05-14",
+    "rate": 9.369444
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HNL",
+    "date": "2018-05-14",
+    "rate": 28.289641
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HRK",
+    "date": "2018-05-14",
+    "rate": 7.381027
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HTG",
+    "date": "2018-05-14",
+    "rate": 76.23562
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HUF",
+    "date": "2018-05-14",
+    "rate": 315.338798
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IDR",
+    "date": "2018-05-14",
+    "rate": 16668.709186
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ILS",
+    "date": "2018-05-14",
+    "rate": 4.284451
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IMP",
+    "date": "2018-05-14",
+    "rate": 0.88006
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "INR",
+    "date": "2018-05-14",
+    "rate": 80.626903
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IQD",
+    "date": "2018-05-14",
+    "rate": 1413.229622
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IRR",
+    "date": "2018-05-14",
+    "rate": 50131.456022
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ISK",
+    "date": "2018-05-14",
+    "rate": 122.105908
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JEP",
+    "date": "2018-05-14",
+    "rate": 0.88006
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JMD",
+    "date": "2018-05-14",
+    "rate": 148.592021
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JOD",
+    "date": "2018-05-14",
+    "rate": 0.845126
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JPY",
+    "date": "2018-05-14",
+    "rate": 130.954102
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KES",
+    "date": "2018-05-14",
+    "rate": 119.539653
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KGS",
+    "date": "2018-05-14",
+    "rate": 81.619504
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KHR",
+    "date": "2018-05-14",
+    "rate": 4800.445071
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KMF",
+    "date": "2018-05-14",
+    "rate": 488.901066
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KPW",
+    "date": "2018-05-14",
+    "rate": 1074.245078
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KRW",
+    "date": "2018-05-14",
+    "rate": 1275.475502
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KWD",
+    "date": "2018-05-14",
+    "rate": 0.359635
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KYD",
+    "date": "2018-05-14",
+    "rate": 0.978587
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KZT",
+    "date": "2018-05-14",
+    "rate": 391.514749
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LAK",
+    "date": "2018-05-14",
+    "rate": 9935.099267
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LBP",
+    "date": "2018-05-14",
+    "rate": 1796.377236
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LKR",
+    "date": "2018-05-14",
+    "rate": 188.53008
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LRD",
+    "date": "2018-05-14",
+    "rate": 157.555511
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LSL",
+    "date": "2018-05-14",
+    "rate": 14.657603
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LTL",
+    "date": "2018-05-14",
+    "rate": 3.638951
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LVL",
+    "date": "2018-05-14",
+    "rate": 0.740692
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LYD",
+    "date": "2018-05-14",
+    "rate": 1.607548
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MAD",
+    "date": "2018-05-14",
+    "rate": 11.16965
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MDL",
+    "date": "2018-05-14",
+    "rate": 19.620489
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MGA",
+    "date": "2018-05-14",
+    "rate": 3831.4756
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MKD",
+    "date": "2018-05-14",
+    "rate": 61.24393
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MMK",
+    "date": "2018-05-14",
+    "rate": 1588.689503
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MNT",
+    "date": "2018-05-14",
+    "rate": 2857.493183
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MOP",
+    "date": "2018-05-14",
+    "rate": 9.650185
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MRO",
+    "date": "2018-05-14",
+    "rate": 422.536935
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MUR",
+    "date": "2018-05-14",
+    "rate": 40.940688
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MVR",
+    "date": "2018-05-14",
+    "rate": 18.42897
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MWK",
+    "date": "2018-05-14",
+    "rate": 851.554392
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MXN",
+    "date": "2018-05-14",
+    "rate": 23.382504
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MYR",
+    "date": "2018-05-14",
+    "rate": 4.712371
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MZN",
+    "date": "2018-05-14",
+    "rate": 70.983756
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NAD",
+    "date": "2018-05-14",
+    "rate": 14.700457
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NGN",
+    "date": "2018-05-14",
+    "rate": 429.697691
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NIO",
+    "date": "2018-05-14",
+    "rate": 37.02577
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NOK",
+    "date": "2018-05-14",
+    "rate": 9.585397
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NPR",
+    "date": "2018-05-14",
+    "rate": 128.073938
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NZD",
+    "date": "2018-05-14",
+    "rate": 1.724721
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "OMR",
+    "date": "2018-05-14",
+    "rate": 0.458945
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PAB",
+    "date": "2018-05-14",
+    "rate": 1.193606
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PEN",
+    "date": "2018-05-14",
+    "rate": 3.886978
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PGK",
+    "date": "2018-05-14",
+    "rate": 3.882202
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PHP",
+    "date": "2018-05-14",
+    "rate": 62.544962
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PKR",
+    "date": "2018-05-14",
+    "rate": 137.825698
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PLN",
+    "date": "2018-05-14",
+    "rate": 4.271085
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PYG",
+    "date": "2018-05-14",
+    "rate": 6638.837087
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "QAR",
+    "date": "2018-05-14",
+    "rate": 4.344484
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RON",
+    "date": "2018-05-14",
+    "rate": 4.623432
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RSD",
+    "date": "2018-05-14",
+    "rate": 117.604342
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RUB",
+    "date": "2018-05-14",
+    "rate": 73.802693
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RWF",
+    "date": "2018-05-14",
+    "rate": 1010.280107
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SAR",
+    "date": "2018-05-14",
+    "rate": 4.476424
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SBD",
+    "date": "2018-05-14",
+    "rate": 9.307504
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SCR",
+    "date": "2018-05-14",
+    "rate": 16.276043
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SDG",
+    "date": "2018-05-14",
+    "rate": 21.43144
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SEK",
+    "date": "2018-05-14",
+    "rate": 10.308961
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SGD",
+    "date": "2018-05-14",
+    "rate": 1.594216
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SHP",
+    "date": "2018-05-14",
+    "rate": 0.879924
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SLL",
+    "date": "2018-05-14",
+    "rate": 9310.128083
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SOS",
+    "date": "2018-05-14",
+    "rate": 670.806649
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SRD",
+    "date": "2018-05-14",
+    "rate": 8.830946
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "STD",
+    "date": "2018-05-14",
+    "rate": 24510.342248
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SVC",
+    "date": "2018-05-14",
+    "rate": 10.444578
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SYP",
+    "date": "2018-05-14",
+    "rate": 614.683245
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SZL",
+    "date": "2018-05-14",
+    "rate": 14.709765
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "THB",
+    "date": "2018-05-14",
+    "rate": 38.064097
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TJS",
+    "date": "2018-05-14",
+    "rate": 10.683492
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TMT",
+    "date": "2018-05-14",
+    "rate": 4.058261
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TND",
+    "date": "2018-05-14",
+    "rate": 3.035458
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TOP",
+    "date": "2018-05-14",
+    "rate": 2.761289
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TRY",
+    "date": "2018-05-14",
+    "rate": 5.19266
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TTD",
+    "date": "2018-05-14",
+    "rate": 8.021633
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TWD",
+    "date": "2018-05-14",
+    "rate": 35.493105
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TZS",
+    "date": "2018-05-14",
+    "rate": 2714.26035
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UAH",
+    "date": "2018-05-14",
+    "rate": 31.224547
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UGX",
+    "date": "2018-05-14",
+    "rate": 4424.697986
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "USD",
+    "date": "2018-05-14",
+    "rate": 1.193606
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UYU",
+    "date": "2018-05-14",
+    "rate": 36.034969
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UZS",
+    "date": "2018-05-14",
+    "rate": 9548.849081
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "VEF",
+    "date": "2018-05-14",
+    "rate": 83343.546188
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "VND",
+    "date": "2018-05-14",
+    "rate": 27171.249259
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "VUV",
+    "date": "2018-05-14",
+    "rate": 127.94264
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "WST",
+    "date": "2018-05-14",
+    "rate": 3.089292
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XAF",
+    "date": "2018-05-14",
+    "rate": 655.683659
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XAG",
+    "date": "2018-05-14",
+    "rate": 0.072265
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XAU",
+    "date": "2018-05-14",
+    "rate": 0.000909
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XCD",
+    "date": "2018-05-14",
+    "rate": 3.226572
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XDR",
+    "date": "2018-05-14",
+    "rate": 0.833477
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XOF",
+    "date": "2018-05-14",
+    "rate": 655.683659
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XPF",
+    "date": "2018-05-14",
+    "rate": 119.375309
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "YER",
+    "date": "2018-05-14",
+    "rate": 298.282157
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZAR",
+    "date": "2018-05-14",
+    "rate": 14.711149
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZMK",
+    "date": "2018-05-14",
+    "rate": 10743.88938
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZMW",
+    "date": "2018-05-14",
+    "rate": 11.828072
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZWL",
+    "date": "2018-05-14",
+    "rate": 384.764907
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AED",
+    "date": "2018-05-15",
+    "rate": 4.343317
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AFN",
+    "date": "2018-05-15",
+    "rate": 83.845983
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ALL",
+    "date": "2018-05-15",
+    "rate": 126.4194
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AMD",
+    "date": "2018-05-15",
+    "rate": 572.446897
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ANG",
+    "date": "2018-05-15",
+    "rate": 2.116838
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AOA",
+    "date": "2018-05-15",
+    "rate": 274.25323
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ARS",
+    "date": "2018-05-15",
+    "rate": 28.407046
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AUD",
+    "date": "2018-05-15",
+    "rate": 1.583375
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AWG",
+    "date": "2018-05-15",
+    "rate": 2.105019
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "AZN",
+    "date": "2018-05-15",
+    "rate": 2.009822
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BAM",
+    "date": "2018-05-15",
+    "rate": 1.958495
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BBD",
+    "date": "2018-05-15",
+    "rate": 2.36519
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BDT",
+    "date": "2018-05-15",
+    "rate": 100.0357
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BGN",
+    "date": "2018-05-15",
+    "rate": 1.946433
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BHD",
+    "date": "2018-05-15",
+    "rate": 0.445719
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BIF",
+    "date": "2018-05-15",
+    "rate": 2070.700039
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BMD",
+    "date": "2018-05-15",
+    "rate": 1.182595
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BND",
+    "date": "2018-05-15",
+    "rate": 1.574013
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BOB",
+    "date": "2018-05-15",
+    "rate": 8.112953
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BRL",
+    "date": "2018-05-15",
+    "rate": 4.320727
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BSD",
+    "date": "2018-05-15",
+    "rate": 1.182595
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BTC",
+    "date": "2018-05-15",
+    "rate": 0.000139
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BTN",
+    "date": "2018-05-15",
+    "rate": 79.82658
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BWP",
+    "date": "2018-05-15",
+    "rate": 11.645253
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BYN",
+    "date": "2018-05-15",
+    "rate": 2.353728
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BYR",
+    "date": "2018-05-15",
+    "rate": 23178.860538
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "BZD",
+    "date": "2018-05-15",
+    "rate": 2.362585
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CAD",
+    "date": "2018-05-15",
+    "rate": 1.522212
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CDF",
+    "date": "2018-05-15",
+    "rate": 1851.349805
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CHF",
+    "date": "2018-05-15",
+    "rate": 1.184192
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CLF",
+    "date": "2018-05-15",
+    "rate": 0.027365
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CLP",
+    "date": "2018-05-15",
+    "rate": 747.601014
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CNY",
+    "date": "2018-05-15",
+    "rate": 7.540108
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "COP",
+    "date": "2018-05-15",
+    "rate": 3393.337763
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CRC",
+    "date": "2018-05-15",
+    "rate": 663.69589
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CUC",
+    "date": "2018-05-15",
+    "rate": 1.182595
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CUP",
+    "date": "2018-05-15",
+    "rate": 31.338766
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CVE",
+    "date": "2018-05-15",
+    "rate": 110.33611
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "CZK",
+    "date": "2018-05-15",
+    "rate": 25.541707
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DJF",
+    "date": "2018-05-15",
+    "rate": 209.615269
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DKK",
+    "date": "2018-05-15",
+    "rate": 7.452086
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DOP",
+    "date": "2018-05-15",
+    "rate": 58.514971
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "DZD",
+    "date": "2018-05-15",
+    "rate": 136.925567
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "EGP",
+    "date": "2018-05-15",
+    "rate": 21.026539
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ERN",
+    "date": "2018-05-15",
+    "rate": 17.727041
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ETB",
+    "date": "2018-05-15",
+    "rate": 32.166583
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "EUR",
+    "date": "2018-05-15",
+    "rate": 1.0
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "FJD",
+    "date": "2018-05-15",
+    "rate": 2.435789
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "FKP",
+    "date": "2018-05-15",
+    "rate": 0.874884
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GBP",
+    "date": "2018-05-15",
+    "rate": 0.876161
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GEL",
+    "date": "2018-05-15",
+    "rate": 2.867084
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GGP",
+    "date": "2018-05-15",
+    "rate": 0.875937
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GHS",
+    "date": "2018-05-15",
+    "rate": 5.405687
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GIP",
+    "date": "2018-05-15",
+    "rate": 0.87478
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GMD",
+    "date": "2018-05-15",
+    "rate": 55.428223
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GNF",
+    "date": "2018-05-15",
+    "rate": 10636.258964
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GTQ",
+    "date": "2018-05-15",
+    "rate": 8.67555
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "GYD",
+    "date": "2018-05-15",
+    "rate": 244.619767
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HKD",
+    "date": "2018-05-15",
+    "rate": 9.283134
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HNL",
+    "date": "2018-05-15",
+    "rate": 28.054721
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HRK",
+    "date": "2018-05-15",
+    "rate": 7.381769
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HTG",
+    "date": "2018-05-15",
+    "rate": 75.070893
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "HUF",
+    "date": "2018-05-15",
+    "rate": 316.379619
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IDR",
+    "date": "2018-05-15",
+    "rate": 16594.171993
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ILS",
+    "date": "2018-05-15",
+    "rate": 4.251784
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IMP",
+    "date": "2018-05-15",
+    "rate": 0.875937
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "INR",
+    "date": "2018-05-15",
+    "rate": 80.498079
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IQD",
+    "date": "2018-05-15",
+    "rate": 1400.192392
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "IRR",
+    "date": "2018-05-15",
+    "rate": 49668.98674
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ISK",
+    "date": "2018-05-15",
+    "rate": 122.162059
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JEP",
+    "date": "2018-05-15",
+    "rate": 0.875937
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JMD",
+    "date": "2018-05-15",
+    "rate": 147.434107
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JOD",
+    "date": "2018-05-15",
+    "rate": 0.834881
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "JPY",
+    "date": "2018-05-15",
+    "rate": 130.439042
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KES",
+    "date": "2018-05-15",
+    "rate": 118.436884
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KGS",
+    "date": "2018-05-15",
+    "rate": 80.889495
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KHR",
+    "date": "2018-05-15",
+    "rate": 4770.469554
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KMF",
+    "date": "2018-05-15",
+    "rate": 489.807158
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KPW",
+    "date": "2018-05-15",
+    "rate": 1064.335275
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KRW",
+    "date": "2018-05-15",
+    "rate": 1275.251209
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KWD",
+    "date": "2018-05-15",
+    "rate": 0.356551
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KYD",
+    "date": "2018-05-15",
+    "rate": 0.969599
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "KZT",
+    "date": "2018-05-15",
+    "rate": 388.044879
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LAK",
+    "date": "2018-05-15",
+    "rate": 9823.815702
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LBP",
+    "date": "2018-05-15",
+    "rate": 1779.80507
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LKR",
+    "date": "2018-05-15",
+    "rate": 186.849776
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LRD",
+    "date": "2018-05-15",
+    "rate": 156.09071
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LSL",
+    "date": "2018-05-15",
+    "rate": 14.900551
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LTL",
+    "date": "2018-05-15",
+    "rate": 3.605371
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LVL",
+    "date": "2018-05-15",
+    "rate": 0.73386
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "LYD",
+    "date": "2018-05-15",
+    "rate": 1.595682
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MAD",
+    "date": "2018-05-15",
+    "rate": 11.132362
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MDL",
+    "date": "2018-05-15",
+    "rate": 19.471449
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MGA",
+    "date": "2018-05-15",
+    "rate": 3796.129676
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MKD",
+    "date": "2018-05-15",
+    "rate": 61.258416
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MMK",
+    "date": "2018-05-15",
+    "rate": 1574.034108
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MNT",
+    "date": "2018-05-15",
+    "rate": 2831.132307
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MOP",
+    "date": "2018-05-15",
+    "rate": 9.561162
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MRO",
+    "date": "2018-05-15",
+    "rate": 418.638353
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MUR",
+    "date": "2018-05-15",
+    "rate": 40.622133
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MVR",
+    "date": "2018-05-15",
+    "rate": 18.413555
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MWK",
+    "date": "2018-05-15",
+    "rate": 843.698689
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MXN",
+    "date": "2018-05-15",
+    "rate": 23.277017
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MYR",
+    "date": "2018-05-15",
+    "rate": 4.675974
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "MZN",
+    "date": "2018-05-15",
+    "rate": 70.361925
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NAD",
+    "date": "2018-05-15",
+    "rate": 14.856913
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NGN",
+    "date": "2018-05-15",
+    "rate": 423.368813
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NIO",
+    "date": "2018-05-15",
+    "rate": 36.719571
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NOK",
+    "date": "2018-05-15",
+    "rate": 9.611682
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NPR",
+    "date": "2018-05-15",
+    "rate": 127.483737
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "NZD",
+    "date": "2018-05-15",
+    "rate": 1.722098
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "OMR",
+    "date": "2018-05-15",
+    "rate": 0.454702
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PAB",
+    "date": "2018-05-15",
+    "rate": 1.182595
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PEN",
+    "date": "2018-05-15",
+    "rate": 3.869092
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PGK",
+    "date": "2018-05-15",
+    "rate": 3.831756
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PHP",
+    "date": "2018-05-15",
+    "rate": 62.145362
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PKR",
+    "date": "2018-05-15",
+    "rate": 136.591794
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PLN",
+    "date": "2018-05-15",
+    "rate": 4.298258
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "PYG",
+    "date": "2018-05-15",
+    "rate": 6583.505964
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "QAR",
+    "date": "2018-05-15",
+    "rate": 4.304414
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RON",
+    "date": "2018-05-15",
+    "rate": 4.636242
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RSD",
+    "date": "2018-05-15",
+    "rate": 116.906247
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RUB",
+    "date": "2018-05-15",
+    "rate": 73.628358
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "RWF",
+    "date": "2018-05-15",
+    "rate": 1000.960139
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SAR",
+    "date": "2018-05-15",
+    "rate": 4.434853
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SBD",
+    "date": "2018-05-15",
+    "rate": 9.250496
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SCR",
+    "date": "2018-05-15",
+    "rate": 15.881992
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SDG",
+    "date": "2018-05-15",
+    "rate": 21.233731
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SEK",
+    "date": "2018-05-15",
+    "rate": 10.285503
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SGD",
+    "date": "2018-05-15",
+    "rate": 1.590826
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SHP",
+    "date": "2018-05-15",
+    "rate": 0.875151
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SLL",
+    "date": "2018-05-15",
+    "rate": 9224.24048
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SOS",
+    "date": "2018-05-15",
+    "rate": 665.800933
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SRD",
+    "date": "2018-05-15",
+    "rate": 8.774681
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "STD",
+    "date": "2018-05-15",
+    "rate": 24516.375398
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SVC",
+    "date": "2018-05-15",
+    "rate": 10.347986
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SYP",
+    "date": "2018-05-15",
+    "rate": 609.012711
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "SZL",
+    "date": "2018-05-15",
+    "rate": 14.869713
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "THB",
+    "date": "2018-05-15",
+    "rate": 37.949736
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TJS",
+    "date": "2018-05-15",
+    "rate": 10.588834
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TMT",
+    "date": "2018-05-15",
+    "rate": 4.020823
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TND",
+    "date": "2018-05-15",
+    "rate": 3.02638
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TOP",
+    "date": "2018-05-15",
+    "rate": 2.748588
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TRY",
+    "date": "2018-05-15",
+    "rate": 5.265266
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TTD",
+    "date": "2018-05-15",
+    "rate": 7.943522
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TWD",
+    "date": "2018-05-15",
+    "rate": 35.341874
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "TZS",
+    "date": "2018-05-15",
+    "rate": 2689.220493
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UAH",
+    "date": "2018-05-15",
+    "rate": 30.959939
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UGX",
+    "date": "2018-05-15",
+    "rate": 4387.427341
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "USD",
+    "date": "2018-05-15",
+    "rate": 1.182595
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UYU",
+    "date": "2018-05-15",
+    "rate": 36.080598
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "UZS",
+    "date": "2018-05-15",
+    "rate": 9460.758918
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "VEF",
+    "date": "2018-05-15",
+    "rate": 82574.690828
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "VND",
+    "date": "2018-05-15",
+    "rate": 26924.138666
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "VUV",
+    "date": "2018-05-15",
+    "rate": 130.026308
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "WST",
+    "date": "2018-05-15",
+    "rate": 3.074272
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XAF",
+    "date": "2018-05-15",
+    "rate": 655.35861
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XAG",
+    "date": "2018-05-15",
+    "rate": 0.071599
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XAU",
+    "date": "2018-05-15",
+    "rate": 0.0009
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XCD",
+    "date": "2018-05-15",
+    "rate": 3.19514
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XDR",
+    "date": "2018-05-15",
+    "rate": 0.825788
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XOF",
+    "date": "2018-05-15",
+    "rate": 655.35861
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "XPF",
+    "date": "2018-05-15",
+    "rate": 119.349294
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "YER",
+    "date": "2018-05-15",
+    "rate": 295.530465
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZAR",
+    "date": "2018-05-15",
+    "rate": 14.869598
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZMK",
+    "date": "2018-05-15",
+    "rate": 10644.770509
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZMW",
+    "date": "2018-05-15",
+    "rate": 11.742995
+  },
+  {
+    "base_currency_code": "EUR",
+    "currency_code": "ZWL",
+    "date": "2018-05-15",
+    "rate": 381.2154
+  }
+]

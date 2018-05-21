@@ -3,7 +3,6 @@ from datetime import datetime
 
 class Check:
     """Collectin of argument validation functions."""
-
     def __init__(self, args):
         self.currency_codes = args.get('currency_codes')
         self.start_date = args.get('start_date')
@@ -12,13 +11,13 @@ class Check:
     def validate_date_format(self):
         if self.start_date:
             try:
-                self.start_date = datetime.strptime(self.start_date, "%Y-%m-%d")
+                self.start_date = datetime.strptime(self.start_date, "%Y-%m-%d").date()
             except:
                 raise ValueError('Incorrect start date format, should be %Y-%m-%d')
 
         if self.end_date:
             try:
-                self.end_date = datetime.strptime(self.end_date, "%Y-%m-%d")
+                self.end_date = datetime.strptime(self.end_date, "%Y-%m-%d").date()
             except:
                 raise ValueError('Incorrect end date format, should be %Y-%m-%d')
 
@@ -38,6 +37,6 @@ class Check:
             self.validate_date_format()
             self.start_is_not_in_future()
             self.end_date_after_start_date()
-        except Exception as e:
+        except ValueError as e:
             return str(e)
         return None
