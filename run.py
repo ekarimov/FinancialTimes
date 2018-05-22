@@ -1,5 +1,5 @@
 from app import app, db
-from app.db_methods import post_historical_exchange_rates, post_latest_exchange_rates
+from app.db_methods import post_historical_exchange_rates
 from app.views import exchange_rates_bp
 
 
