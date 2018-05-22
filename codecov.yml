@@ -1,0 +1,5 @@
+ignore:
+  - "*/test_*.py"       # wildcards accepted
+  - "tests/*"         # wildcards accepted
+  - run.py
+  - config.py
