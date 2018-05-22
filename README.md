@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/ekarimov/FinancialTimes.svg?branch=master)](https://travis-ci.org/ekarimov/FinancialTimes)
+[![Coverage badge](https://codecov.io/gh/ekarimov/FinancialTimes/branch/master/graphs/badge.svg)](https://codecov.io/gh/ekarimov/FinancialTimes)
