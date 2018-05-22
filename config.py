@@ -17,7 +17,7 @@ class DevelopmentConfig(object):
     SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'database_dev.db')
     SQLALCHEMY_ECHO = True
     PORT = 5000
-    FIXER_ACCESS_KEY = '871649a063434b259b496d15b9568fb0'
+    FIXER_ACCESS_KEY = 'shiny_token'
     HISTORICAL_INTERVAL_DAYS = 7
 
 
