@@ -1,2 +1,2 @@
 web: python run.py
-clock: python clock.py
+clock: python job_scheduler.py
