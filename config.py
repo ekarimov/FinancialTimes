@@ -8,7 +8,7 @@ class ProductionConfig(object):
     SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL')
     PORT = int(os.getenv('PORT', 5000))
     FIXER_ACCESS_KEY = os.getenv('FIXER_ACCESS_KEY')
-    HISTORICAL_INTERVAL_DAYS = 7 * 2
+    HISTORICAL_INTERVAL_DAYS = 365 * 2
 
 
 class DevelopmentConfig(object):

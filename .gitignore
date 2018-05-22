@@ -3,3 +3,5 @@
 *.pyc
 venv
 staticfiles
+app/__init__.py
+database_dev.db
