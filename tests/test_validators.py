@@ -34,7 +34,7 @@ class TestBasicRatesAPIParameters(TestCaseBase):
         assert response.status_code == 422
 
 
-class Test_average_rates_API_parameters(TestCaseBase):
+class TestAverageRatesApiParameters(TestCaseBase):
 
     def test_get_EUR_with_start_date_response_200(self):
         payload = {"start_date":"2018-05-14"}
