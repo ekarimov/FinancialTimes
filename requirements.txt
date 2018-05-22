@@ -5,3 +5,4 @@ flask_sqlalchemy
 apscheduler
 pytest
 codecov
+psycopg2
