@@ -1,9 +1,7 @@
-#import pytest
-import json
-
 from tests.test_basic import TestCaseBase
 
-class Test_basic_rates_API_parameters(TestCaseBase):
+
+class TestBasicRatesAPIParameters(TestCaseBase):
 
     def test_get_EUR_with_start_date_response_200(self):
         payload = {"start_date":"2018-05-14"}

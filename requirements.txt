@@ -3,3 +3,4 @@ sqlalchemy
 flask
 flask_sqlalchemy
 apscheduler
+pytest

@@ -1,5 +1,5 @@
 from datetime import datetime
-from flask import Blueprint, request, jsonify, current_app, Response, make_response
+from flask import Blueprint, request, jsonify, make_response
 from sqlalchemy.sql import func
 from app.models import Datapoint
 from app.validators import Check
@@ -67,12 +67,14 @@ def get_average_rates(base_currency_code):
         start_date = exchange_rates.with_entities(func.min(Datapoint.date).label('min_date')).first()
         start_date = start_date.min_date
     else:
+        start_date = datetime.strptime(start_date, "%Y-%m-%d")
         exchange_rates = exchange_rates.filter(Datapoint.date >= start_date)
 
     if end_date is None:
         end_date = exchange_rates.with_entities(func.max(Datapoint.date).label('max_date')).first()
         end_date = end_date.max_date
     else:
+        end_date = datetime.strptime(end_date, "%Y-%m-%d")
         exchange_rates = exchange_rates.filter(Datapoint.date >= end_date)
 
     exchange_rates = exchange_rates.\
@@ -85,8 +87,8 @@ def get_average_rates(base_currency_code):
             'base_currency_code':base_currency_code,
             'currency_code':exchange_rate.currency_code,
             'average_rate':exchange_rate.average,
-            'start_date':start_date,
-            'end_date':end_date
+            'start_date':datetime.strftime(start_date, "%Y-%m-%d"),
+            'end_date':datetime.strftime(end_date, "%Y-%m-%d")
         })
 
     return jsonify(result)

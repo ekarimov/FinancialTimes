@@ -8,6 +8,7 @@ from app import get_app, db
 from app.views import exchange_rates_bp
 from app.models import Datapoint
 
+
 class TestCaseBase(unittest.TestCase):
 
     def _make_app(self):
