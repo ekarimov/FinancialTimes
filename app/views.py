@@ -75,7 +75,7 @@ def get_average_rates(base_currency_code):
         end_date = end_date.max_date
     else:
         end_date = datetime.strptime(end_date, "%Y-%m-%d")
-        exchange_rates = exchange_rates.filter(Datapoint.date >= end_date)
+        exchange_rates = exchange_rates.filter(Datapoint.date <= end_date)
 
     exchange_rates = exchange_rates.\
         group_by(Datapoint.currency_code).\
